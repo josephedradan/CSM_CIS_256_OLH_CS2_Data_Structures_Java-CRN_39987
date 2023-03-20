@@ -42,7 +42,7 @@ It's just a file
 
 ## Assignment 4 (Programming Project – AOE Task Manager)
 
-__Description__: (DFS + Non DFS) Max-Flow Min-Cut Directed Graph traversal with Backtacking (Ford-Fulkerson Algorithm)
+__Description__: (DFS + Non DFS) Max-Flow Min-Cut on Directed Graph traversal with Backtacking (Ford-Fulkerson Algorithm)
 
 __How to run__:
 
