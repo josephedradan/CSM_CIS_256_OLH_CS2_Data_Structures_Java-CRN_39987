@@ -20,7 +20,7 @@ __How to run__:
 
 ## Assignment 2 (Discrete Event-Driven Simulation Joseph Edradan V2)
 
-__Description__: Visual Priority Queue essentially...
+__Description__: Priority Queue essentially...
 
 __How to run__:
 
@@ -42,7 +42,7 @@ It's just a file
 
 ## Assignment 4 (Programming Project – AOE Task Manager)
 
-__Description__: Visual DFS Node Traversal with Back Tacking
+__Description__: (DFS + Non DFS) Max-Flow Min-Cut Directed Graph traversal with Backtacking (Ford-Fulkerson Algorithm)
 
 __How to run__:
 
@@ -59,6 +59,7 @@ __How to run__:
 ![example_recursive.png](https://raw.githubusercontent.com/josephedradan/CSM_CIS_256_OLH_CS2_Data_Structures_Java-CRN_39987/main/images/assignment_4_5.png)
 ![example_recursive.png](https://raw.githubusercontent.com/josephedradan/CSM_CIS_256_OLH_CS2_Data_Structures_Java-CRN_39987/main/images/assignment_4_6.png)
 ![example_recursive.png](https://raw.githubusercontent.com/josephedradan/CSM_CIS_256_OLH_CS2_Data_Structures_Java-CRN_39987/main/images/assignment_4_7.png)
+![example_recursive.png](https://raw.githubusercontent.com/josephedradan/CSM_CIS_256_OLH_CS2_Data_Structures_Java-CRN_39987/main/images/assignment_4_8.png)
 
 ### Demo Video
 
