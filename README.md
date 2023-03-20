@@ -38,7 +38,7 @@ __How to run__:
 
 ## Assignment 3 (Binary Trees and AVL Trees)
 
-It's just a file. Look inside __\_Non Code/Assignment 3__ for PDF Solution
+It's just a file. Look inside __\_Non Code/Assignment 3__ for PDF Solution on how Binary Trees and AVL Trees work
 
 ## Assignment 4 (Programming Project – AOE Task Manager)
 
