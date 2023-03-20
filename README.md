@@ -42,7 +42,7 @@ It's just a file. Look inside __\_Non Code/Assignment 3__ for PDF Solution on ho
 
 ## Assignment 4 (Programming Project – AOE Task Manager)
 
-__Description__: (DFS + Non DFS) Max-Flow Min-Cut on Directed Graph traversal (Ford-Fulkerson Algorithm). Uses an array stack implementation.
+__Description__: Depth First Search to find the longest path via edges of a Directed Graph
 
 __How to run__:
 
