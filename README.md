@@ -12,6 +12,7 @@ __How to run__:
 
 ### Demo Video
 [![SFSU CSC 317 Term Project - Joseph Edradan](https://img.youtube.com/vi/JkxhhRkzA4g/0.jpg)](https://www.youtube.com/watch?v=JkxhhRkzA4g)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JkxhhRkzA4g" frameborder="0" allowfullscreen></iframe>
 
 ## Assignment 2
 
