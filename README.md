@@ -2,7 +2,7 @@
 
 ## Assignment 1 (Image Component Labeling Java Joseph Edradan)
 
-__Description__: Visual DFS and BFS search
+__Description__: Visualizing how DFS and BFS search works.
 
 __How to run__:
 
@@ -20,7 +20,7 @@ __How to run__:
 
 ## Assignment 2 (Discrete Event-Driven Simulation Joseph Edradan V2)
 
-__Description__: Priority Queue essentially...
+__Description__: Simulating events using a Priority Queue. Events vary and the Environment has constraints.    
 
 __How to run__:
 
@@ -38,11 +38,11 @@ __How to run__:
 
 ## Assignment 3 (Binary Trees and AVL Trees)
 
-It's just a file
+It's just a file. Look inside __\_Non Code/Assignment 3__ for PDF Solution
 
 ## Assignment 4 (Programming Project – AOE Task Manager)
 
-__Description__: (DFS + Non DFS) Max-Flow Min-Cut on Directed Graph traversal with Backtacking (Ford-Fulkerson Algorithm)
+__Description__: (DFS + Non DFS) Max-Flow Min-Cut on Directed Graph traversal (Ford-Fulkerson Algorithm). Uses an array stack implementation.
 
 __How to run__:
 
